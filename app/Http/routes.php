@@ -58,15 +58,5 @@ Route::group(['middleware' => ['web']], function () {
             Route::put('{id}/update', ['as' => 'update', 'uses' => 'QuestionController@update']);
             Route::get('{id}/delete', ['as' => 'delete', 'uses' => 'QuestionController@destroy']);
         });
-        // Route Answer
-        Route::group(['as' => 'answer.', 'prefix' => 'answer'], function () {
-            Route::get('', ['as' => 'index', 'uses' => 'AnswerController@index']);
-            Route::get('create', ['as' => 'create', 'uses' => 'AnswerController@create']);
-            Route::post('save', ['as' => 'store', 'uses' => 'AnswerController@store']);
-            Route::get('{id}/show', ['as' => 'show', 'uses' => 'AnswerController@show']);
-            Route::get('{id}/edit', ['as' => 'edit', 'uses' => 'AnswerController@edit']);
-            Route::put('{id}/update', ['as' => 'update', 'uses' => 'AnswerController@update']);
-            Route::get('{id}/delete', ['as' => 'delete', 'uses' => 'AnswerController@destroy']);
-        });
     });
 });
