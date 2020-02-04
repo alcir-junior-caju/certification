@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.8"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.0.0",
+    "laravel-elixir": "^4.0.0"
+  },
+  "name": "Certification",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alcir-junior-caju/certification.git",
+  "author": "Alcir Junior Caju <junior@cajucomunica.com.br>",
+  "license": "MIT"
+}
