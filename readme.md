@@ -1,9 +1,7 @@
 <!-- Info Header -->
 <div style="display:flex;align-items:center;justify-content:center;">
-  <h1 style="margin:0 50px 0 0;">
-      <img alt="Caju" src="https://www.cajucomunica.com.br/logo-caju.png" width="250px" />
-  </h1>
-  <div>
+  <img alt="Caju" src="https://www.cajucomunica.com.br/logo-caju.png" width="250px" />
+  <div style="margin: 0 0 0 25px ">
     <h3>
       Pequeno Estudo Sobre Laravel
     </h3>
