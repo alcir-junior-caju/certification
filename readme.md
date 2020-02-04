@@ -10,7 +10,7 @@
       </h3>
       <p>Pequeno sistema de estudos para certificações, onde é possível criar uma Certicação, criar uma Categoria para as perguntas e criar as perguntas, no formato de Texto, Checkbox e Radio Button.</p>
       <p>
-        <a href="https://rocketseat.com.br">
+        <a href="https://cajucomunica.com.br">
           <img alt="Criado por Alcir Junior [Caju]" src="https://img.shields.io/badge/criado%20por-Alcir Junior [Caju]-%23f08700">
         </a>
         <img alt="License" src="https://img.shields.io/badge/license-MIT-%23f08700">
