@@ -1,26 +1,28 @@
 <!-- Info Header -->
-<div style="display:flex;align-items:center;justify-content:center;">
-  <img alt="Caju" src="https://www.cajucomunica.com.br/logo-caju.png" width="250px" />
-  <div style="margin: 0 0 0 25px ">
-    <h3>
-      Pequeno Estudo Sobre Laravel
-    </h3>
-    <p>Pequeno sistema de estudos para certificações, onde é possível criar uma Certicação, criar uma Categoria para as perguntas e criar as perguntas, no formato de Texto, Checkbox e Radio Button.</p>
-    <p>
-      <a href="https://rocketseat.com.br">
-        <img alt="Criado por Alcir Junior [Caju]" src="https://img.shields.io/badge/criado%20por-Alcir Junior [Caju]-%23f08700">
-      </a>
-      <img alt="License" src="https://img.shields.io/badge/license-MIT-%23f08700">
-    </p>
-    <p">
-      <a href="#telas-do-sistema">Telas do Sistema</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="#como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="#sistema-online">Sistema Online</a>
-    </p>
-  </div>
-</div>
-
----
+<table>
+  <tr>
+    <td>
+      <img alt="Caju" src="https://www.cajucomunica.com.br/logo-caju.png" width="250px" />
+    </td>
+    <td>
+      <h3>
+        Pequeno Estudo Sobre Laravel
+      </h3>
+      <p>Pequeno sistema de estudos para certificações, onde é possível criar uma Certicação, criar uma Categoria para as perguntas e criar as perguntas, no formato de Texto, Checkbox e Radio Button.</p>
+      <p>
+        <a href="https://rocketseat.com.br">
+          <img alt="Criado por Alcir Junior [Caju]" src="https://img.shields.io/badge/criado%20por-Alcir Junior [Caju]-%23f08700">
+        </a>
+        <img alt="License" src="https://img.shields.io/badge/license-MIT-%23f08700">
+      </p>
+      <p">
+        <a href="#telas-do-sistema">Telas do Sistema</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+        <a href="#como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+        <a href="#sistema-online">Sistema Online</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 #### Telas do Sistema
 
